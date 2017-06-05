@@ -28,6 +28,9 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 100;
 }
 
+hr {
+    float:left;
+}
 p {
     line-height: 1.43;
     margin-top: 0;
@@ -57,12 +60,13 @@ nav li,nav a  {
     display:inline;
     color:black;
     text-decoration: none;
-    padding-right: .4em;
+    padding-right: .45em;
     font-size: 13px;
     
 }
 
 #menu {
         float:right;
+      
 
 }
